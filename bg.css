@@ -1,0 +1,8 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(to bottom, #ffffff 0%, #8c8c8c 100%);
+	
+	justify-content: center;
+	align-items: center;
+}
